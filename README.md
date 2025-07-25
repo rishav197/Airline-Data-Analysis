@@ -116,7 +116,7 @@ likely because it only offers low-cost economy class and may have limited featur
 comfort.
 
 <!-- FIGURE4_IMAGE -->
-<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure4.jpg" alt="figure4_img" width="600"/>
+<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure4.jpg" alt="figure4_img" width="700"/>
 
 **Occupancy Rate Insights :** 
 Another crucial metric is the occupancy rate, which tells us how well the seats on an 
@@ -130,7 +130,7 @@ identify opportunities to boost load factors through better scheduling, pricing,
 improvements.  
 
 <!-- FIGURE5_IMAGE -->
-<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure5.jpg" alt="figure5_img" width="600"/>
+<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure5.jpg" alt="figure5_img" width="750"/>
 
 **Impact of Increasing Occupancy :**
 To explore the potential upside, we simulated a 10% increase in occupancy across all 
