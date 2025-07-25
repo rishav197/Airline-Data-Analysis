@@ -78,7 +78,7 @@ These findings indicate that analyzing the factors behind the booking peak could
 valuable insights to help boost overall revenue and improve operational planning. 
 
 <!-- FIGURE1_IMAGE -->
-<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure1.png" alt="figure1_img" width="100"/>
+<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure1.png" alt="figure1_img" width="1000"/>
 
 <!-- FIGURE2_IMAGE -->
 <img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure2.png" alt="figure2_img" width="1000"/>
@@ -92,8 +92,8 @@ economy class, highlighting a clear pricing hierarchy regardless of the aircraft
 These insights can guide fare optimization by understanding which aircraft and fare 
 combinations offer the greatest pricing leverage.
 
-FIGURE3_IMAGE
-
+<!-- FIGURE3_IMAGE -->
+<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure3.png" alt="figure3_img" width="1000"/>
 
 
 ## Revenue and Occupancy Analysis 
