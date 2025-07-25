@@ -64,8 +64,7 @@ Table 1 provides a breakdown of aircraft with more than 100 seats, along with th
 exact seat capacities. 
 
 
-TABLE1_IMAGE
-<!-- ![TABLE1_IMG](https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/table1.jpg) -->
+<!-- TABLE1_IMAGE -->
 <img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/table1.jpg" alt="Table1" width="400"/>
 
 
@@ -75,10 +74,8 @@ June 22 to July 7, followed by a relatively stable period from July 8 through Au
 clear peak is observed during this period(maybe due to a nearby festival), marking the 
 highest number of tickets booked on a single day. Since revenue is closely linked to 
 ticket sales, the revenue trend closely mirrors the booking trend over this time period.  
-These findings indicate that analyzing the factors behind the booking peak could 
-uncover valuable insights to help boost overall revenue and improve operational 
-planning. 
-
+These findings indicate that analyzing the factors behind the booking peak could uncover 
+valuable insights to help boost overall revenue and improve operational planning. 
 
 FIGURE1_IMAGE
 
