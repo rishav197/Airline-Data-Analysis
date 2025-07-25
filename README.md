@@ -142,7 +142,7 @@ operations to drive higher seat utilization.
 
 
 <!-- FIGURE6_IMAGE -->
-<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure6.jpg" alt="figure6_img" width="400"/>
+<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure6.jpg" alt="figure6_img" width="600"/>
 
 
 ## Conclusion 
