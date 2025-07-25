@@ -28,11 +28,11 @@ FIGURE0_IMAGE
 pressure to reduce its carbon emission. As a result, stricter environmental 
 regulations have been introduced, leading to higher compliance costs, 
 operational restrictions and limited room for fleet expansion.  
-2. Rising Flight Taxes : To address climate concerns and boost government 
+- Rising Flight Taxes : To address climate concerns and boost government 
 revenue, many countries are imposing heavier taxes on air travel. These 
 increased taxes raise the overall cost of operations, which may reduce customer 
 demand and hurt profitability.  
-3. Tight Labor Market and Rising Labor Costs : The aviation industry is facing a 
+- Tight Labor Market and Rising Labor Costs : The aviation industry is facing a 
 shortage of skilled professionals, such as pilots, engineers, and maintenance 
 staff. This talent gap has driven up wages and turnover rates, making it harder to 
 maintain consistent staffing levels while managing personnel expenses. 
@@ -40,11 +40,11 @@ maintain consistent staffing levels while managing personnel expenses.
 
 ## Objectives
 
-1. Increase Occupancy rate : Fill more seats on each flight to boost average profits 
+- Increase Occupancy rate : Fill more seats on each flight to boost average profits 
 per seat and reduce the impact of rising costs. 
-2. Optimize Pricing Strategy : Create a smart pricing plan that reflects market trends 
+- Optimize Pricing Strategy : Create a smart pricing plan that reflects market trends 
 and customer needs to attract and retain customers.  
-3. Enhance Customer Experience : we need to focus on the entire experience from 
+- Enhance Customer Experience : we need to focus on the entire experience from 
 booking to arrival as smooth and enjoyable as possible to stand out from competitors 
 and build customer loyalty.  
 The ultimate goal of this task would be to identify opportunities to increase occupancy 
