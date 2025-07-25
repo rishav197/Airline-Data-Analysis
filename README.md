@@ -65,6 +65,7 @@ exact seat capacities.
 
 
 TABLE1_IMAGE
+![TABLE1_IMG](https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/table1.jpg)
 
 To better understand trends in ticket bookings and the resulting revenue, we used a line 
 chart visualization. The analysis revealed a steady increase in ticket bookings from 
