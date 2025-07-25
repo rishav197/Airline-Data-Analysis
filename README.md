@@ -19,7 +19,8 @@ at their data and figure out how to fill more seats on each flight (increase the
 each trip and improve their overall profits.  
 
 
-FIGURE0_IMAGE
+<!-- FIGURE0_IMAGE -->
+<!-- ![Airline Data](https://example.com/path/to/image.png) -->
 
 
 ## Main Challenges 
