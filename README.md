@@ -115,8 +115,8 @@ have attracted more passengers. On the other hand, CN1 earned the least revenue,
 likely because it only offers low-cost economy class and may have limited features or 
 comfort.
 
-
-FIGURE4_IMAGE
+<!-- FIGURE4_IMAGE -->
+<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure3.png" alt="figure3_img" width="1000"/>
 
 **Occupancy Rate Insights :** 
 Another crucial metric is the occupancy rate, which tells us how well the seats on an 
@@ -129,8 +129,8 @@ Figure 5 shows the average occupancy for each aircraft. This metric helps airlin
 identify opportunities to boost load factors through better scheduling, pricing, or service 
 improvements.  
 
-
-FIGURE5_IMAGE
+<!-- FIGURE5_IMAGE -->
+<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure3.png" alt="figure3_img" width="1000"/>
 
 **Impact of Increasing Occupancy :**
 To explore the potential upside, we simulated a 10% increase in occupancy across all 
@@ -141,8 +141,8 @@ profitability. Therefore, airlines should focus on optimizing pricing strategies
 operations to drive higher seat utilization.
 
 
-FIGURE6_IMAGE
-
+<!-- FIGURE6_IMAGE -->
+<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure6.jpg" alt="figure6_img" width="400"/>
 
 
 ## Conclusion 
