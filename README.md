@@ -77,9 +77,11 @@ ticket sales, the revenue trend closely mirrors the booking trend over this time
 These findings indicate that analyzing the factors behind the booking peak could uncover 
 valuable insights to help boost overall revenue and improve operational planning. 
 
-FIGURE1_IMAGE
+<!-- FIGURE1_IMAGE -->
+<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure1.png" alt="figure1_img" width="600"/>
 
-FIGURE2_IMAGE
+<!-- FIGURE2_IMAGE -->
+<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure2.png" alt="figure2_img" width="600"/>
 
 After calculating the average fare for each aircraft under different fare conditions, we 
 created a bar chart to visually compare the results. Figure 3 illustrates the average fares 
