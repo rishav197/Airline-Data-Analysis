@@ -23,7 +23,7 @@ FIGURE0_IMAGE
 
 
 ## Main Challenges 
-**Tight Labor Market and Rising Labor Costs :**
+
 - **Stricter Environmental Regulations :** The airline industry is under growing 
 pressure to reduce its carbon emission. As a result, stricter environmental 
 regulations have been introduced, leading to higher compliance costs, 
@@ -39,7 +39,7 @@ maintain consistent staffing levels while managing personnel expenses.
 
 
 ## Objectives
-**Optimize Pricing Strategy :**
+
 - **Increase Occupancy rate :** Fill more seats on each flight to boost average profits 
 per seat and reduce the impact of rising costs. 
 - **Optimize Pricing Strategy :** Create a smart pricing plan that reflects market trends 
