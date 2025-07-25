@@ -19,7 +19,7 @@ at their data and figure out how to fill more seats on each flight (increase the
 each trip and improve their overall profits.  
 
 <!-- FIGURE0_IMAGE -->
-<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure0.jpg" alt="figure0_img" width="1000"/>
+<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure0.jpg" alt="figure0_img" width="800"/>
 
 
 ## Main Challenges 
