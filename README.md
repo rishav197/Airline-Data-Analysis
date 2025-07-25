@@ -23,16 +23,16 @@ FIGURE0_IMAGE
 
 
 ## Main Challenges 
-
-- Stricter Environmental Regulations : The airline industry is under growing 
+**Tight Labor Market and Rising Labor Costs :**
+- **Stricter Environmental Regulations :** The airline industry is under growing 
 pressure to reduce its carbon emission. As a result, stricter environmental 
 regulations have been introduced, leading to higher compliance costs, 
 operational restrictions and limited room for fleet expansion.  
-- Rising Flight Taxes : To address climate concerns and boost government 
+- **Rising Flight Taxes :** To address climate concerns and boost government 
 revenue, many countries are imposing heavier taxes on air travel. These 
 increased taxes raise the overall cost of operations, which may reduce customer 
 demand and hurt profitability.  
-- Tight Labor Market and Rising Labor Costs : The aviation industry is facing a 
+- **Tight Labor Market and Rising Labor Costs :** The aviation industry is facing a 
 shortage of skilled professionals, such as pilots, engineers, and maintenance 
 staff. This talent gap has driven up wages and turnover rates, making it harder to 
 maintain consistent staffing levels while managing personnel expenses. 
@@ -129,6 +129,7 @@ improvements.
 
 
 FIGURE5_IMAGE
+
 **Impact of Increasing Occupancy :**
 To explore the potential upside, we simulated a 10% increase in occupancy across all 
 aircraft. The result, shown in the next figure, demonstrates a clear increase in total 
