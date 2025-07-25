@@ -18,9 +18,8 @@ at their data and figure out how to fill more seats on each flight (increase the
 “occupancy rate”). If more seats are sold per flight, they can make more profits from 
 each trip and improve their overall profits.  
 
-
 <!-- FIGURE0_IMAGE -->
-<!-- ![Airline Data](https://example.com/path/to/image.png) -->
+![figure0_img](https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure0.jpg)
 
 
 ## Main Challenges 
