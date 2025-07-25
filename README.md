@@ -39,12 +39,12 @@ maintain consistent staffing levels while managing personnel expenses.
 
 
 ## Objectives
-
-- Increase Occupancy rate : Fill more seats on each flight to boost average profits 
+**Optimize Pricing Strategy :**
+- **Increase Occupancy rate :** Fill more seats on each flight to boost average profits 
 per seat and reduce the impact of rising costs. 
-- Optimize Pricing Strategy : Create a smart pricing plan that reflects market trends 
+- **Optimize Pricing Strategy :** Create a smart pricing plan that reflects market trends 
 and customer needs to attract and retain customers.  
-- Enhance Customer Experience : we need to focus on the entire experience from 
+- **Enhance Customer Experience :** we need to focus on the entire experience from 
 booking to arrival as smooth and enjoyable as possible to stand out from competitors 
 and build customer loyalty.  
 The ultimate goal of this task would be to identify opportunities to increase occupancy 
@@ -116,8 +116,7 @@ comfort.
 
 FIGURE4_IMAGE
 
-
-## Occupancy Rate Insights :  
+**Occupancy Rate Insights :** 
 Another crucial metric is the occupancy rate, which tells us how well the seats on an 
 aircraft are being filled. It's calculated as: 
 Occupancy Rate = (Booked Seats / Total Seats)*100 
@@ -130,8 +129,7 @@ improvements.
 
 
 FIGURE5_IMAGE
-
-## Impact of Increasing Occupancy : 
+**Impact of Increasing Occupancy :**
 To explore the potential upside, we simulated a 10% increase in occupancy across all 
 aircraft. The result, shown in the next figure, demonstrates a clear increase in total 
 revenue. 
