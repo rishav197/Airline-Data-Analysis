@@ -137,8 +137,7 @@ improvements.
 
 **Impact of Increasing Occupancy :**
 To explore the potential upside, we simulated a 10% increase in occupancy across all 
-aircraft. The result, shown in the next figure, demonstrates a clear increase in total 
-revenue.
+aircraft. The result, shown in the next figure, demonstrates a clear jump of 207.68 Crore in total annual turnover.
 
 This suggests that even a small improvement in occupancy can significantly boost 
 profitability. Therefore, airlines should focus on optimizing pricing strategies and 
