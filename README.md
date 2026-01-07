@@ -138,14 +138,15 @@ improvements.
 **Impact of Increasing Occupancy :**
 To explore the potential upside, we simulated a 10% increase in occupancy across all 
 aircraft. The result, shown in the next figure, demonstrates a clear increase in total 
-revenue. 
+revenue.
+
 This suggests that even a small improvement in occupancy can significantly boost 
 profitability. Therefore, airlines should focus on optimizing pricing strategies and 
 operations to drive higher seat utilization.
 
 
 <!-- FIGURE6_IMAGE -->
-<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure6.jpg" alt="figure6_img" width="800"/>
+<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure6.jpeg" alt="figure6_img" width="800"/>
 
 
 ## Conclusion 
