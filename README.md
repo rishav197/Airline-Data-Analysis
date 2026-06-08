@@ -119,7 +119,9 @@ likely because it only offers low-cost economy class and may have limited featur
 comfort.
 
 <!-- FIGURE4_IMAGE -->
-<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure4.jpg" alt="figure4_img" width="700"/>
+<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure4.1_revenue_share_by_aircraft.png" alt="figure4.1_img" width="700"/>
+
+<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure4.2_avg_revenue_per_ticket_by_aircraft.png" alt="figure4.2_img" width="700"/>
 
 **Occupancy Rate Insights :** 
 Another crucial metric is the occupancy rate, which tells us how well the seats on an 
