@@ -105,23 +105,13 @@ To improve profitability, airlines need to closely examine their revenue streams
 metrics to consider are: 
 1. Total revenue 
 2. Average revenue per ticket per aircraft 
-By analyzing these, airlines can identify which aircraft types and routes bring in the most 
-income. This helps in making informed decisions about pricing, scheduling, and 
-resource allocation. 
+By analyzing these, airlines can identify which aircraft types and routes bring in the most income. This helps in making informed decisions about pricing, scheduling, and resource allocation. 
 
-Figure 4 shows total revenue, number of tickets sold, and average revenue per ticket for 
-each aircraft. 
-
-The SU9 aircraft generated the highest revenue. From earlier analysis (Figure 3), we 
-know that SU9 has the lowest prices for both business and economy class, which may 
-have attracted more passengers. On the other hand, CN1 earned the least revenue, 
-likely because it only offers low-cost economy class and may have limited features or 
-comfort.
 
 <!-- FIGURE4_IMAGE -->
-<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure4.1_revenue_share_by_aircraft.png" alt="figure4.1_img" width="400"/>
-
-<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure4.2_avg_revenue_per_ticket_by_aircraft.png" alt="figure4.2_img" width="400"/>
+> <img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure4.1_revenue_share_by_aircraft.png" alt="figure4.1_img" width="400"/>
+> <img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure4.2_avg_revenue_per_ticket_by_aircraft.png" alt="figure4.2_img" width="400"/>
+> SU9 contributed the highest share of total revenue (24.6%), likely driven by strong passenger demand despite lower ticket prices. Aircraft 763 (21.0%) and 773 (16.5%) were also major revenue contributors, while 319 generated the highest average revenue per ticket (~100,000), indicating a premium pricing strategy. Among all aircraft, 763 showed the best balance between high total revenue and high revenue per ticket. In contrast, CN1 was the weakest performer, contributing only 0.5% of total revenue and recording the lowest average ticket revenue. Overall, the results highlight two effective revenue models: high passenger volume (SU9) and high-value ticket sales (319 and 763). To maximize profitability, the airline should prioritize high-performing aircraft such as SU9, 763, and 319 on high-demand routes, while reviewing the pricing strategy, route allocation, and operational efficiency of underperforming aircraft like CN1.
 
 **Occupancy Rate Insights :** 
 Another crucial metric is the occupancy rate, which tells us how well the seats on an 
