@@ -141,16 +141,5 @@ operations to drive higher seat utilization.
 
 ## Conclusion 
 
-In summary, analyzing key revenue metrics such as total yearly revenue, average 
-revenue per ticket, and average occupancy per aircraft is essential for improving airline 
-profitability. These insights help identify areas for improvement and guide better pricing 
-and route decisions. 
-One of the most effective ways to increase profit is by improving occupancy rates, as 
-filling more seats boosts revenue and reduces losses from empty ones. However, 
-pricing needs to be carefully adjusted, too high or too low fares can both reduce 
-demand. Prices should reflect the condition and service level of each aircraft, offering a 
-fair value to passengers. 
-Importantly, efforts to increase occupancy must not compromise customer satisfaction 
-or safety. Airlines should aim for a balance between profitability and service quality. 
-By using a data-driven approach to optimize pricing and operations, airlines can stay 
-competitive and achieve sustainable growth in the long run.
+This analysis demonstrated how data-driven insights into ticket bookings, fare structures, revenue patterns, and aircraft occupancy can support better decision-making in the airline industry. The results showed that improving seat utilization has a significant impact on profitability, with a simulated 10% increase in occupancy leading to an estimated annual revenue uplift of ₹207.68 crore. By optimizing pricing strategies, route allocation, and operational planning while maintaining service quality, airlines can enhance profitability and achieve sustainable long-term growth.
+
