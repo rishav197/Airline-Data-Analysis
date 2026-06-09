@@ -105,6 +105,7 @@ To improve profitability, airlines need to closely examine their revenue streams
 metrics to consider are: 
 1. Total revenue 
 2. Average revenue per ticket per aircraft 
+
 By analyzing these, airlines can identify which aircraft types and routes bring in the most income. This helps in making informed decisions about pricing, scheduling, and resource allocation. 
 
 
