@@ -126,7 +126,7 @@ identify opportunities to boost load factors through better scheduling, pricing,
 improvements.  
 
 <!-- FIGURE5_IMAGE -->
-<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure5.jpg" alt="figure5_img" width="700"/>
+<img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure5.jpeg" alt="figure5_img" width="700"/>
 
 **Impact of Increasing Occupancy :**
 To explore the potential upside, we simulated a 10% increase in occupancy across all aircraft. As shown in the figure below, this results in an increase of ₹207.68 crore in total annual turnover across the fleet.
