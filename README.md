@@ -129,7 +129,7 @@ improvements.
 <img src="https://github.com/rishav197/Airline-Data-Analysis/blob/main/plots-and-images/figure5.jpg" alt="figure5_img" width="500"/>
 
 **Impact of Increasing Occupancy :**
-To explore the potential upside, we simulated a 10% increase in occupancy across all aircraft. As shown in the figure below, this results in an increase of ₹207.68 crore in total annual turnover across the fleet.
+To explore the potential upside, we simulated a 10% increase in occupancy across all aircraft. As shown in the figure below, this results in an increase of ₹207.68 crore in total turnover across the fleet.
 
 This suggests that even a small improvement in occupancy can significantly boost 
 profitability. Therefore, airlines should focus on optimizing pricing strategies and 
@@ -142,5 +142,5 @@ operations to drive higher seat utilization.
 
 ## Conclusion 
 
-This analysis demonstrated how data-driven insights into ticket bookings, fare structures, revenue patterns, and aircraft occupancy can support better decision-making in the airline industry. The results showed that improving seat utilization has a significant impact on profitability, with a simulated 10% increase in occupancy leading to an estimated annual revenue uplift of ₹207.68 crore. By optimizing pricing strategies, route allocation, and operational planning while maintaining service quality, airlines can enhance profitability and achieve sustainable long-term growth.
+This analysis demonstrated how data-driven insights into ticket bookings, fare structures, revenue patterns, and aircraft occupancy can support better decision-making in the airline industry. The results showed that improving seat utilization has a significant impact on profitability, with a simulated 10% increase in occupancy leading to an estimated total revenue uplift of ₹207.68 crore. By optimizing pricing strategies, route allocation, and operational planning while maintaining service quality, airlines can enhance profitability and achieve sustainable long-term growth.
 
